@@ -15,8 +15,8 @@ project/
 │ ├── CMakeLists.txt
 │ ├── main.c
 │ └── module/
-│ ├── hello.c
-│ └── hello.h
+│   ├── hello.c
+│   └── hello.h
 ├── CMakeLists.txt
 ├── LICENSE
 ├── README.md
